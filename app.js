@@ -1,6 +1,8 @@
 import express from "express"
 import Dicas from "./src/controllers/dicas-controllers.js"
+import dotenv from "dotenv"
 
+dotenv.config();
 const porta = 3000;
 const app = express();
 
