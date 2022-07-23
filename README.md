@@ -14,21 +14,21 @@
 
 
 
-## **As seguintes ferramentas foram usadas na construção do projeto:**
+## **As seguintes ferramentas foram necessárias na construção do projeto:**
 
 *Antes de começar, você vai precisar ter instalado em sua máquina*
-- Git;
-- Node.js (16.15.1) para testar a aplicação;
-- Postman ou Insomnia para verificar o funcionamento da API;
-- Além disto é bom ter um editor para trabalhar com o código como VSCode.
+- Git
+- Node.js (16.15.1) para testar a aplicação
+- Postman ou Insomnia para verificar o funcionamento da API
+- VSCode para trabalhar com o código
 
 ## **Tecnologias utilizadas:**
 
-- MVC;
-- CRUD;
-- API REST;
-- Express;
-- Nodemon.
+- MVC
+- CRUD
+- API REST
+- Express
+- Nodemon
 
 
 
