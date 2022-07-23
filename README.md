@@ -91,8 +91,8 @@ http://localhost:3000/dicas
 Flávio Christovam 
 
 ## **Contato:**
-https://github.com/fchristovam
-https://www.linkedin.com/in/flavio-christovam/
+- (https://github.com/fchristovam)
+- (https://www.linkedin.com/in/flavio-christovam/)
 
 ## Licença
 *Este projeto esta sob a licença MIT.*
